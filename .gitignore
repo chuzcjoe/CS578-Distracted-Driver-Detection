@@ -5,3 +5,6 @@ cocoapi
 .ipynb_checkpoints
 test_out
 test_train
+mask_rcnn_full
+log.txt
+data_release
